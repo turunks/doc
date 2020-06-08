@@ -1,0 +1,5 @@
+1.ctrl+shift+enter 补全表达式 例if()按快捷键之后可以补全{}表达式
+
+2.ctrl+shift+Y 将小写表达式变为大写 例hello变为HELLO
+
+3.if(){},while(),try catch(),等表达式可使用ctrl+alt+t提示然后选择
