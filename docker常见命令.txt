@@ -8,6 +8,9 @@ docker search 镜像名称
 
 docker pull 镜像名称
 
+查看镜像
+docker images
+
 查看容器
 
 docker ps 查看正在运行的容器
@@ -36,6 +39,9 @@ docker run -di --name=tensquare_mysql -p 3307:3306 -e MYSQL_ROOT_PASSWORD=root  
 -p 3307:3306  第一个是映射出去的端口号  第二个是mysql自己的端口号
 
 -e 代表初始化一个mysql用户   password = 填密码
+
+交互式进入容器命令（使用root用户）
+docker exec -it --user root <container id>（nifty_goldstine） /bin/bash
 
 停止一个容器
 
