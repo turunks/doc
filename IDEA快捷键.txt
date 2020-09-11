@@ -3,3 +3,13 @@
 2.ctrl+shift+Y 将小写表达式变为大写 例hello变为HELLO
 
 3.if(){},while(),try catch(),等表达式可使用ctrl+alt+t提示然后选择
+
+4.	psfs　　　　　public static final String
+	psfi　　　　　public static final int
+	psf　　　　　 public static final
+	serr　　　　　System.err.println("");
+	souf　　　　　System.out.printf("");
+	sout　　　　　System.out.println("");
+	Iter　　　　  for(SysUserVO sysUserVO:arrayList)
+
+5. 快速抽取方法 选中我即将抽取的代码，按快捷键Ctrl + Alt + M 即可，或者  鼠标右击 》Refactor 》Extract 》Method 出现如下
