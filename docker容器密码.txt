@@ -1,0 +1,2 @@
+1、mysql 用户密码 root root
+2. redis 用户密码 
