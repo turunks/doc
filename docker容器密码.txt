@@ -1,2 +1,7 @@
 1、mysql 用户密码 root root
 2. redis 用户密码 
+
+boot2docker用户和密码
+用户	密码	进入方式
+docker	tcuser	ssh
+root	 		command：sudo -i (docker用户下执行)

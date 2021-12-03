@@ -58,9 +58,10 @@ docker rm -f （container id name）
 
 
 启动一个容器
-
 docker start 容器id
 
+查看容器运行日志
+docker logs 容器id
 
 
 Mysql篇
