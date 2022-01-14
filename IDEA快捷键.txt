@@ -1,3 +1,4 @@
+
 1.ctrl+shift+enter 补全表达式 例if()按快捷键之后可以补全{}表达式
 
 2.ctrl+shift+Y 将小写表达式变为大写 例hello变为HELLO
@@ -13,3 +14,6 @@
 	Iter　　　　  for(SysUserVO sysUserVO:arrayList)
 
 5. 快速抽取方法 选中我即将抽取的代码，按快捷键Ctrl + Alt + M 即可，或者  鼠标右击 》Refactor 》Extract 》Method 出现如下
+
+6.按住alt+shift,然后用鼠标左键点击文本,可以让光标在多个位置出现
+按住 Ctrl+Shift+Alt，用鼠标选则多行文本，可以每处选择都是整齐的矩形。（框选）
